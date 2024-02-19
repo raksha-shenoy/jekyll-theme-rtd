@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: What is All This.........? (FAQs)
 nav_order: 3
@@ -52,4 +52,4 @@ that it can be easily used with GitHub Pages.
 ## Other FAQs
 
 We don't have Frequently Asked Questions yet, if you have any please
-[open a new issue in the theme GitHub repository](https://github.com/carlosperate/jekyll-theme-rtd/issues/new).
+[open a new issue in the theme GitHub repository](https://github.com/carlosperate/jekyll-theme-rtd/issues/new). -->

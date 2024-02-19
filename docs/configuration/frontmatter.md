@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Pages Configuration
 nav_order: 2
@@ -26,4 +26,4 @@ nav_exclude: false
 canonical_url: https://www.google.com
 search_exclude: false
 ---
-```
+``` -->
