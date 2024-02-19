@@ -1,4 +1,4 @@
-theme: just-the-docs
+theme: jekyll-theme-rtd
 aux_links:
        Template Repository: https://github.com/raksha-shenoy/jekyll-theme-rtd.git
 # title: Read The Docs Jekyll Theme
