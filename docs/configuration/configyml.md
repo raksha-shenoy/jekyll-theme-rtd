@@ -1,4 +1,4 @@
-<!-- ---
+-- ---
 layout: default
 title: Theme Configuration
 nav_order: 1
@@ -36,4 +36,4 @@ google_analytics: UA-XXXXX-Y
 google_analytics_anonymize_ip: true
 # The highlight.js library provides 79 different colours for their syntax highlighting. The default is github-gist.
 hljs_style: github-gist
-``` -->
+``` 

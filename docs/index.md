@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Index
 nav_exclude: true
@@ -42,4 +42,4 @@ Missing features are listed in the GitHub issues with the
 and any known issues are listed with the
 [bug label](https://github.com/carlosperate/jekyll-theme-rtd/issues?q=is%3Aissue+is%3Aopen+label%3Abug).
 
-Contributions are very welcomed!
+Contributions are very welcomed! -->
