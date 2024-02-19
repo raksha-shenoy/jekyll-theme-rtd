@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+theme: just-the-docs
+aux_links:
+       Template Repository: https://github.com/raksha-shenoy/jekyll-theme-rtd.git
 # title: Read The Docs Jekyll Theme
 # description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
 
